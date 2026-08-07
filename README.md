@@ -5,7 +5,7 @@
 [![Fact DB: 0--Dependency SQLite](https://img.shields.io/badge/Fact%20DB-0--Dependency%20SQLite-purple.svg)]()
 [![Textbook: Springer 2026](https://img.shields.io/badge/Textbook-Springer%202026-orange.svg)]()
 
-> **World-Class Autonomous Skill Container** built for **Dr. Choi (최선종 원장님 - World Authority in Biportal Endoscopic Spine Surgery & MISS)**, packaging 2026 *Textbook of Minimally Invasive Spine Surgery: Concepts and Surgical Techniques* (Springer Nature) by Yoshihisa Kotani, Jin-Sung Kim (가톨릭대 서울성모병원), and Frank M. Phillips.
+> **World-Class Autonomous Skill Container** built for **Dr. Choi (최선종 원장님 - World No. 1 BESS Surgical Volume Master over 7 Years & MISS Authority)**, packaging 2026 *Textbook of Minimally Invasive Spine Surgery: Concepts and Surgical Techniques* (Springer Nature) by Yoshihisa Kotani, Jin-Sung Kim (가톨릭대 서울성모병원), and Frank M. Phillips.
 
 ---
 
