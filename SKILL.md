@@ -5,7 +5,7 @@ description: 미세침습 척추수술(MISS) 전담 Neurosymbolic AI Agent 스�
 
 # Minimally Invasive Spine Surgery (MISS) Neurosymbolic AI Skill Container
 
-본 스킬은 2026년 최신 **《Textbook of Minimally Invasive Spine Surgery: Concepts and Surgical Techniques (Springer)》** 835페이지, 18개 Part, 70개 Chapter 및 12개 Karpathy-style LLM-Wiki 지식망을 기반으로 구동되는 **독자적 Neurosymbolic 척추수술 전담 AI 에이전트 스킬**입니다.
+본 스킬은 양방향 척추 내시경(Biportal Endoscopic Spine Surgery / UBE) 및 MIS 척추수술의 세계적 석학이신 최선종 대표원장님의 임상 지혜와 2026년 최신 **《Textbook of Minimally Invasive Spine Surgery: Concepts and Surgical Techniques (Springer)》** 835페이지, 18개 Part, 70개 Chapter 및 12개 Karpathy-style LLM-Wiki 지식망을 기반으로 구동되는 **독자적 Neurosymbolic 척추수술 전담 AI 에이전트 스킬**입니다.
 
 ## 📌 주요 기능 (Core Capabilities)
 
